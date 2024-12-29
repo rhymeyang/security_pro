@@ -49,9 +49,26 @@ export default defineUserConfig({
           collapsable: false,
           children: [
             '/01/01.01SecurityOverview.md',
+            '/01/01.02DefensePlanning.md',
+            '/01/01.03UsingTheSimulator.md'
+          ]
+        },
+        {
+          text: '2.0 Threats, Attacks, and Vulnerabilities',
+          collapsable: false,
+          children: [
+            '/02/02.01UnderstandingAttacks',
+            '/02/02.02Malware.md',
+            '/02/02.03SocialEngineering.md'
           ],
         },
+        {
+          text: '3.0 Physical',
+          collapsable: false,
+          children: [
 
+          ],
+        },
       ]
     },
   }),
