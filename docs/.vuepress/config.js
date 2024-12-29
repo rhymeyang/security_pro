@@ -59,7 +59,9 @@ export default defineUserConfig({
           children: [
             '/02/02.01UnderstandingAttacks',
             '/02/02.02Malware.md',
-            '/02/02.03SocialEngineering.md'
+            '/02/02.03SocialEngineering.md',
+            '/02/02.04VulnerabilityConcerns.md',
+            '/02/02.04VulnerabilityConcerns.md'
           ],
         },
         {
