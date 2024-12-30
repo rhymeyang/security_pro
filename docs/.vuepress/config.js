@@ -38,7 +38,7 @@ export default defineUserConfig({
     sidebar: {
       '/': [
         {
-          text: '基础信息',
+          text: 'Info',
           collapsable: false,
           children: [
             '/',
@@ -66,6 +66,106 @@ export default defineUserConfig({
         },
         {
           text: '3.0 Physical',
+          collapsable: false,
+          children: [
+            '/03/03.01PhysicalThreats.md',
+            '/03/03.02DeviceAndNetworkProtection.md',
+            '/03/03.03EnvironmentalControls.md'
+          ],
+        },
+        {
+          text: '4.0 Networks and Hosts Design and Diagnosis',
+          collapsable: false,
+          children: [
+
+          ],
+        },
+        {
+          text: '5.0 Devices and Infrastructure',
+          collapsable: false,
+          children: [
+
+          ],
+        },
+        {
+          text: '6.0 Identity, Access, and Account Management',
+          collapsable: false,
+          children: [
+
+          ],
+        },
+        {
+          text: '7.0 Cryptography and PKI',
+          collapsable: false,
+          children: [
+
+          ],
+        },
+        {
+          text: '8.0 Wireless Threats',
+          collapsable: false,
+          children: [
+
+          ],
+        },
+        {
+          text: '9.0 Virtualization, Cloud Security, and Securing Mobile Devices',
+          collapsable: false,
+          children: [
+
+          ],
+        },
+        {
+          text: '10.0 Security Assessments',
+          collapsable: false,
+          children: [
+
+          ],
+        },
+        {
+          text: '11.0 Security Assessments',
+          collapsable: false,
+          children: [
+
+          ],
+        },
+        {
+          text: '12.0 Incident Response, Forensics, and Recovery',
+          collapsable: false,
+          children: [
+
+          ],
+        },
+        {
+          text: '13.0 Risk Management',
+          collapsable: false,
+          children: [
+
+          ],
+        },
+        {
+          text: '14.0 Governance and Compliance',
+          collapsable: false,
+          children: [
+
+          ],
+        },
+        {
+          text: 'A.0 Security Pro - Practice Exams',
+          collapsable: false,
+          children: [
+
+          ],
+        },
+        {
+          text: 'B.0 CompTIA Security+ SY0-601 - Practice Exams',
+          collapsable: false,
+          children: [
+
+          ],
+        },
+        {
+          text: 'Glossary',
           collapsable: false,
           children: [
 
