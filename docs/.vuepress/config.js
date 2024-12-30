@@ -87,7 +87,11 @@ export default defineUserConfig({
           text: '5.0 Devices and Infrastructure',
           collapsable: false,
           children: [
-
+            '/05/05.01.SecurityAppliances.md',
+            '/05/05.02.DemilitarizedZones.md',
+            '/05/05.03.Firewalls.md',
+            '/05/05.04.NetworkAddressTranslation.md',
+            '/05/05.05.VirtualPrivateNetworks.md'
           ],
         },
         {
