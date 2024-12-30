@@ -93,7 +93,8 @@ export default defineUserConfig({
             '/05/05.04.NetworkAddressTranslation.md',
             '/05/05.05.VirtualPrivateNetworks.md',
             '/05/05.06.WebThreatProtection.md',
-            '/05/05.07.NetworkAccessControl.md'
+            '/05/05.07.NetworkAccessControl.md',
+            '/05/05.08.NetworkThreats.md'
           ],
         },
         {
