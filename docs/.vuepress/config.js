@@ -91,7 +91,9 @@ export default defineUserConfig({
             '/05/05.02.DemilitarizedZones.md',
             '/05/05.03.Firewalls.md',
             '/05/05.04.NetworkAddressTranslation.md',
-            '/05/05.05.VirtualPrivateNetworks.md'
+            '/05/05.05.VirtualPrivateNetworks.md',
+            '/05/05.06.WebThreatProtection.md',
+            '/05/05.07.NetworkAccessControl.md'
           ],
         },
         {
