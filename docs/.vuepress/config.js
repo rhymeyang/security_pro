@@ -95,7 +95,11 @@ export default defineUserConfig({
             '/05/05.06.WebThreatProtection.md',
             '/05/05.07.NetworkAccessControl.md',
             '/05/05.08.NetworkThreats.md',
-            '/05/05.09.NetworkDeviceVulnerabilities.md'
+            '/05/05.09.NetworkDeviceVulnerabilities.md',
+            '/05/05.10.Network Applications.md',
+            '/05/05.11.SwitchSecurityAndAttacks.md',
+            '/05/05.12.UsingVLANs.md',
+            '/05/05.13.RouterSecurity.md'
           ],
         },
         {
