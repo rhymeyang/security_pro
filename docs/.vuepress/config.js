@@ -77,7 +77,10 @@ export default defineUserConfig({
           text: '4.0 Networks and Hosts Design and Diagnosis',
           collapsable: false,
           children: [
-
+            '/04/04.01ManageableNetworkPlan.md',
+            '/04/04.02WindowsSystemHardening.md',
+            '/04/04.03FileServerSecurity.md',
+            '/04/04.04LinuxHostSecurity.md'
           ],
         },
         {
