@@ -122,7 +122,7 @@ export default defineUserConfig({
           text: '7.0 Cryptography and PKI',
           collapsable: false,
           children: [
-
+            '/07/07.01.Cryptography.md'
           ],
         },
         {
