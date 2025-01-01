@@ -106,7 +106,16 @@ export default defineUserConfig({
           text: '6.0 Identity, Access, and Account Management',
           collapsable: false,
           children: [
-
+            '/06/06.01.AccessControlModels.md',
+            '/06/06.02.Authentication.md',
+            '/06/06.03.Authorization.md',
+            '/06/06.04.WindowsUserManagement.md',
+            '/06/06.05.ActiveDirectoryOverview.md',
+            '/06/06.06.HardeningAuthentication.md',
+            '/06/06.07.LinuxUsers.md',
+            '/06/06.08.LinuxGroups.md',
+            '/06/06.09.RemoteAccess.md',
+            '/06/06.10.NetworkAuthentication.md'
           ],
         },
         {
