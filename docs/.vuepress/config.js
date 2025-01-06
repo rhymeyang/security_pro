@@ -133,14 +133,16 @@ export default defineUserConfig({
           text: '8.0 Wireless Threats',
           collapsable: false,
           children: [
-           
+            '/08/08.01.WirelessOverview.md',
+            '/08/08.02.WirelessAttacks.md',
+            '/08/08.03.WirelessDefenses.md',
           ],
         },
         {
           text: '9.0 Virtualization, Cloud Security, and Securing Mobile Devices',
           collapsable: false,
           children: [
-
+            
           ],
         },
         {
