@@ -122,14 +122,18 @@ export default defineUserConfig({
           text: '7.0 Cryptography and PKI',
           collapsable: false,
           children: [
-            '/07/07.01.Cryptography.md'
+            '/07/07.01.Cryptography.md',
+            '/07/07.02.CryptographyImplementations.md',
+            '/07/07.03.Hashing.md',
+            '/07/07.04.FileEncryption.md',
+            '/07/07.04.PublicKeyInfrastructure.md'
           ],
         },
         {
           text: '8.0 Wireless Threats',
           collapsable: false,
           children: [
-
+           
           ],
         },
         {
