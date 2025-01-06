@@ -147,8 +147,10 @@ export default defineUserConfig({
             '/09/09.03.SoftwareDefinedNetworking.md',
             '/09/09.04.CloudServices.md',
             '/09/09.05.CloudSecurity.md',
-            '/09/09.06.MobileDevices.md'
-
+            '/09/09.06.MobileDevices.md',
+            '/09/09.07.MobileDeviceManagement.md',
+            '/09/09.08.BYODSecurity.md',
+            '/09/09.09.EmbeddedAndSpecializedSystems.md'
           ],
         },
         {
