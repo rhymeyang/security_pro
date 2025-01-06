@@ -142,6 +142,11 @@ export default defineUserConfig({
           text: '9.0 Virtualization, Cloud Security, and Securing Mobile Devices',
           collapsable: false,
           children: [
+            '/09/09.01.HostVirtualization.md',
+            '/09/09.02.VirtualNetworking.md',
+            '/09/09.03.SoftwareDefinedNetworking.md',
+            '/09/09.04.CloudServices.md',
+            '/09/09.05.CloudSecurity.md'
             
           ],
         },
