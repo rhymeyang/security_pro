@@ -126,7 +126,7 @@ export default defineUserConfig({
             '/07/07.02.CryptographyImplementations.md',
             '/07/07.03.Hashing.md',
             '/07/07.04.FileEncryption.md',
-            '/07/07.04.PublicKeyInfrastructure.md'
+            '/07/07.05.PublicKeyInfrastructure.md'
           ],
         },
         {
@@ -146,8 +146,9 @@ export default defineUserConfig({
             '/09/09.02.VirtualNetworking.md',
             '/09/09.03.SoftwareDefinedNetworking.md',
             '/09/09.04.CloudServices.md',
-            '/09/09.05.CloudSecurity.md'
-            
+            '/09/09.05.CloudSecurity.md',
+            '/09/09.06.MobileDevices.md'
+
           ],
         },
         {
