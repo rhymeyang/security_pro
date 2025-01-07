@@ -167,7 +167,13 @@ export default defineUserConfig({
           text: '11.0 Security Assessments',
           collapsable: false,
           children: [
-
+            '/11/11.01.PenetrationTesting.md',
+            '/11/11.02.MonitoringAndReconnaissance.md',
+            '/11/11.03.IntrusionDetection.md',
+            '/11/11.04.SecurityAssessmentTechniques.md',
+            '/11/11.05.ProtocolAnalyzers.md',
+            '/11/11.06.AnalyzingNetworkAttacks.md',
+            '/11/11.07.PasswordAttacks.md'
           ],
         },
         {
