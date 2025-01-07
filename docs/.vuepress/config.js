@@ -157,7 +157,10 @@ export default defineUserConfig({
           text: '10.0 Security Assessments',
           collapsable: false,
           children: [
-
+            '/10/10.01.DataTransmissionSecurity.md',
+            '/10/10.02.DataLossPrevention.md',
+            '/10/10.03.WebApplicationAttacks.md',
+            '/10/10.04.ApplicationDevelopmentAndSecurity.md'
           ],
         },
         {
