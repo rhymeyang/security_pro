@@ -180,7 +180,14 @@ export default defineUserConfig({
           text: '12.0 Incident Response, Forensics, and Recovery',
           collapsable: false,
           children: [
-
+            '/12/12.01.IncidentResponse.md',
+            '/12/12.02.MitigationOfIncident.md',
+            '/12/12.03.LogManagement.md',
+            '/12/12.04.WindowsLogging.md',
+            '/12/12.05.DigitalForensics.md',
+            '/12/12.06.FilePacketManipulation.md',
+            '/12/12.07.Redundancy.md',
+            '/12/12.08.BackupRestore.md'
           ],
         },
         {
