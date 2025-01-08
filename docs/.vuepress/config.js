@@ -203,28 +203,33 @@ export default defineUserConfig({
           text: '14.0 Governance and Compliance',
           collapsable: false,
           children: [
-
+            '/14/14.01.Audits.md',
+            '/14/14.02.ControlsAFrameworks.md',
+            '/14/14.03.SensitiveDataPrivacy.md'
           ],
         },
         {
           text: 'A.0 Security Pro - Practice Exams',
           collapsable: false,
           children: [
-
+            '/A0/A1.md',
+            '/A0/A2.md'
           ],
         },
         {
           text: 'B.0 CompTIA Security+ SY0-601 - Practice Exams',
           collapsable: false,
           children: [
-
+            '/B0/B1.md',
+            '/B0/B2.md',
+            '/B0/B3.md'
           ],
         },
         {
           text: 'Glossary',
           collapsable: false,
           children: [
-
+            '/Glossary/G.md'
           ],
         },
       ]
