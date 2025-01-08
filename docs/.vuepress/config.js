@@ -194,7 +194,9 @@ export default defineUserConfig({
           text: '13.0 Risk Management',
           collapsable: false,
           children: [
-
+            '/13/13.01.OrganizationalSecurityPolicies.md',
+            '/13/13.02.RiskManagement.md',
+            '/13/13.03.Email.md'
           ],
         },
         {
