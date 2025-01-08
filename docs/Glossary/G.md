@@ -309,7 +309,6 @@ description: some description
               however, and is often combined with ESP to achieve integrity
               and confidentiality.
             </p>
-
             <p>&nbsp;</p>
             <p>&nbsp;</p>
           </div>
@@ -651,7 +650,6 @@ description: some description
               recovery procedure to restore resources, prevent
               re-occurrence, and prosecute the perpetrator.
             </p>
-
             <p>
               Auditing the activities of user accounts on a secured system
               is considered a
@@ -682,7 +680,6 @@ description: some description
               recovery procedure to restore resources, prevent
               re-occurrence, and prosecute the perpetrator.
             </p>
-
             <p>
               Auditing the activities of user accounts on a secured system
               is considered a
@@ -814,7 +811,6 @@ description: some description
               continuity. There are four primary systems of backing up data.
               They are full, incremental, differential and copy.
             </p>
-
             <p>
               The following table shows the type of data backed up using
               each backup method:
@@ -1346,7 +1342,6 @@ description: some description
                 random amount of time before starting over at step 1.
               </li>
             </ol>
-
             <p></p>
           </div>
         </td>
@@ -1550,7 +1545,6 @@ description: some description
               protect passwords while in transit from a client to the logon
               server.
             </p>
-
             <p>
               CHAP periodically verifies the identity of a peer using a
               three-way handshake. CHAP ensures that the same client or
@@ -1664,7 +1658,6 @@ description: some description
                 or software.
               </li>
             </ul>
-
             <p>&nbsp;</p>
             <p>&nbsp;</p>
           </div>
@@ -1917,7 +1910,6 @@ description: some description
               situations. It improves professionalism, and serves as a
               reference for the creation of acceptable use policies.
             </p>
-
             <p>
               A code of ethics does not provide clear courses of action when
               faced with complex issues and situations. That's the whole
@@ -1998,7 +1990,6 @@ description: some description
               If two different messages or files produce the same hashing
               digest, then a collision has occurred.
             </p>
-
             <p>
               Birthday attacks exploit collisions. Birthday attacks exploit
               the probability that two messages using the same hash
@@ -2290,7 +2281,6 @@ description: some description
               security and privacy risk and can be used for malicious
               purposes, such as aiding in user impersonation.
             </p>
-
             <p>
               Cookies do not operate within a security sandbox. Cookies have
               as much access to a system as the user account under which
@@ -3017,7 +3007,6 @@ description: some description
               compromised. Thus, no mission critical or sensitive systems
               are located in a DMZ.
             </p>
-
             <p>
               A domain controller may appear in a DMZ when the DMZ is an
               entire isolated domain, however this is not common. User
@@ -3396,7 +3385,6 @@ description: some description
               On wireless networks, eavesdropping is made more difficult by
               using WEP keys.
             </p>
-
             <p>
               Fiber optic cable is the most resistant to tapping and
               eavesdropping. Fiber optic cable transmits light pulses rather
@@ -3474,14 +3462,7 @@ description: some description
               organization. The employee should receive a copy of the
               employee handbook on the first day of employment.
             </p>
-            <p>
-              <span class="standard13"
-                ><b class="fw-bold">Note:</b> It is customary for the
-                employee to sign a receipt for the employee handbook. In
-                this case, include a one-to-three page summary of items in
-                the handbook for the employee to sign.</span
-              >
-            </p>
+            <p><span><b class="fw-bold">Note:</b> It is customary for the employee to sign a receipt for the employee handbook. In this case, include a one-to-three page summary of items in the handbook for the employee to sign.</span></p>
           </div>
         </td>
       </tr>
@@ -3635,13 +3616,7 @@ description: some description
               <li>Best</li>
               <li>Hearsay</li>
             </ul>
-
-            <p>
-              Direct, secondary, and best evidence are generally admissible
-              in court. Hearsay evidence is generally inadmissible in court,
-              however when the evidence is an audit report which is produced
-              as a regular business activity it is allowed.
-            </p>
+            <p>Direct, secondary, and best evidence are generally admissible in court. Hearsay evidence is generally inadmissible in court, however when the evidence is an audit report which is produced as a regular business activity it is allowed.</p>
           </div>
         </td>
       </tr>
@@ -3663,10 +3638,7 @@ description: some description
         </td>
         <td class="glsDefinition">
           <div>
-            <p>
-              The exit interview cooperation agreement stipulates the
-              employee's consent to participate in an exit interview.
-            </p>
+            <p>The exit interview cooperation agreement stipulates the employee's consent to participate in an exit interview.</p>
           </div>
         </td>
       </tr>
@@ -4117,18 +4089,8 @@ description: some description
         <td class="glsKeyword"><div>fraud</div></td>
         <td class="glsDefinition">
           <div>
-            <p>
-              Distributing false information about your organization's
-              financial status is the crime of fraud and may be a felony
-              according to the SEC.
-            </p>
-            <p>
-              Espionage, fraud, and embezzlement are all malicious
-              activities where data or resources of value are disclosed
-              intentionally by the attacker. In most cases, the attacker is
-              internal to the organization and purposely performs these
-              attacks.
-            </p>
+            <p>Distributing false information about your organization's financial status is the crime of fraud and may be a felony according to the SEC.</p>
+            <p> Espionage, fraud, and embezzlement are all malicious activities where data or resources of value are disclosed intentionally by the attacker. In most cases, the attacker is internal to the organization and purposely performs these attacks.</p>
           </div>
         </td>
       </tr>
@@ -4136,12 +4098,7 @@ description: some description
         <td class="glsKeyword"><div>frequency</div></td>
         <td class="glsDefinition">
           <div>
-            <p>
-              Frequency is a measurement of the time it takes for a wave to
-              complete a cycle (make the transition from high amplitude to
-              low and back to high again). Frequency could be considered the
-              number of waves passing a point per second.
-            </p>
+            <p>Frequency is a measurement of the time it takes for a wave to complete a cycle (make the transition from high amplitude to low and back to high again). Frequency could be considered the number of waves passing a point per second.</p>
           </div>
         </td>
       </tr>
@@ -4151,19 +4108,8 @@ description: some description
         </td>
         <td class="glsDefinition">
           <div>
-            <p>
-              Frequency Hopping Spread Spectrum (FHSS) uses a narrow
-              frequency band and 'hops' data signals in a predictable
-              sequence from frequency to frequency over a wide band of
-              frequencies. Because FHSS hops between frequencies, it can
-              avoid interference on one cable as it shifts to another.
-              Hopping between frequencies increases transmission security by
-              making eavesdropping and data capture more difficult.
-            </p>
-            <p>
-              Because FHSS shifts automatically between frequencies, it can
-              avoid interference that may be on a single frequency.
-            </p>
+            <p>Frequency Hopping Spread Spectrum (FHSS) uses a narrow frequency band and 'hops' data signals in a predictable sequence from frequency to frequency over a wide band of frequencies. Because FHSS hops between frequencies, it can avoid interference on one cable as it shifts to another. Hopping between frequencies increases transmission security by making eavesdropping and data capture more difficult.</p>
+            <p>Because FHSS shifts automatically between frequencies, it can avoid interference that may be on a single frequency.</p>
           </div>
         </td>
       </tr>
@@ -4283,33 +4229,15 @@ description: some description
         <td class="glsKeyword"><div>hashing</div></td>
         <td class="glsDefinition">
           <div>
-            <p>
-              Hashing<i class="fs-italicize"> </i>is a<i
-                class="fs-italicize"
-              >
-              </i
-              >method for ensuring the accuracy of processed data. It is a
-              total of several fields of data in a file, including fields
-              not normally used in calculations. At various stages in the
-              processing, the hash total is recalculated and compared with
-              the original. Any mismatch indicates tampering with or
-              corruption of the data.
-            </p>
+            <p>Hashing<i > is a</i>method for ensuring the accuracy of processed data. It is a total of several fields of data in a file, including fields not normally used in calculations. At various stages in the processing, the hash total is recalculated and compared with the original. Any mismatch indicates tampering with or corruption of the data.</p>
           </div>
         </td>
       </tr>
       <tr class="glsTermAlt">
-        <td class="glsKeyword"><div>hashing algorithms</div></td>
-        <td class="glsDefinition">
+        <td><div>hashing algorithms</div></td>
+        <td>
           <div>
-            <p>
-              Hashing algorithms are used to create a message digest to
-              ensure that data integrity is maintained. A sender creates a
-              message digest by performing the hash function on the data
-              files to be transmitted. The receiver performs the same action
-              on the data received and compares the two message digests. If
-              they are the same then the data was not altered.
-            </p>
+            <p>Hashing algorithms are used to create a message digest to ensure that data integrity is maintained. A sender creates a message digest by performing the hash function on the data files to be transmitted. The receiver performs the same action on the data received and compares the two message digests. If they are the same then the data was not altered.</p>
           </div>
         </td>
       </tr>
@@ -4317,20 +4245,11 @@ description: some description
         <td class="glsKeyword"><div>HAVAL</div></td>
         <td class="glsDefinition">
           <div>
-            <p>
-              HAVAL was invented by Yuliang Zheng, Josef Pierprzyk and
-              Jennifer Seberry. HAVAL:
-            </p>
+            <p>HAVAL was invented by Yuliang Zheng, Josef Pierprzyk and Jennifer Seberry. HAVAL:</p>
             <ul>
               <li>Is a variable-length hashing algorithm.</li>
-              <li>
-                Produces values in 128-bit, 160-bit, 192-bit, 224-bit and
-                256-bit lengths.
-              </li>
-              <li>
-                Allows a user to adjust the number of times the message goes
-                through the algorithm from one to five times.
-              </li>
+              <li>Produces values in 128-bit, 160-bit, 192-bit, 224-bit and 256-bit lengths.</li>
+              <li>Allows a user to adjust the number of times the message goes through the algorithm from one to five times.</li>
             </ul>
           </div>
         </td>
@@ -4340,11 +4259,7 @@ description: some description
         <td class="glsDefinition">
           <div>
             <p></p>
-            <p>
-              Hiding is a layering security technique that causes
-              information within a single layer to be hidden from upper and
-              lower layers of processing, thus securing individual layers.
-            </p>
+            <p>Hiding is a layering security technique that causes information within a single layer to be hidden from upper and lower layers of processing, thus securing individual layers.</p>
           </div>
         </td>
       </tr>
@@ -4352,10 +4267,7 @@ description: some description
         <td class="glsKeyword"><div>hierarchical</div></td>
         <td class="glsDefinition">
           <div>
-            <p>
-              A directory design. The hierarchical (tree) design is similar
-              to the UNIX file system structure.
-            </p>
+            <p>A directory design. The hierarchical (tree) design is similar to the UNIX file system structure.</p>
           </div>
         </td>
       </tr>
@@ -4511,11 +4423,10 @@ description: some description
               (Web traffic) uses TCP port 80 and a Uniform Resource Locator
               (URL) of http://.
             </p>
-
             <p>
               HTTP should not be confused with HTTPS (Hypertext Transfer
               Protocol over Secure Socket Layer), which works over TCP port
-              443. HTTPS uses a 40-bit key for the RC4 stream encryption
+              1.   HTTPS uses a 40-bit key for the RC4 stream encryption
               algorithm. HTTPS uses a slightly different Uniform Resource
               Locator (URL) than that used by HTTP: https://.
             </p>
@@ -4631,13 +4542,7 @@ description: some description
         <td class="glsKeyword"><div>ICF</div></td>
         <td class="glsDefinition">
           <div>
-            <p>
-              <span id="intelliTxt"
-                >ICF is a firewall designed for use at home or a small
-                business. It is a feature of Windows XP and works with the
-                Internet via cable, DSL or dial-up modem.&nbsp;
-              </span>
-            </p>
+            <p><span id="intelliTxt">ICF is a firewall designed for use at home or a small business. It is a feature of Windows XP and works with the Internet via cable, DSL or dial-up modem.&nbsp;</span></p>
           </div>
         </td>
       </tr>
@@ -4682,9 +4587,7 @@ description: some description
               circumvented the firewall from outside as well as any activity
               originating from within the trusted network.
             </p>
-
-            <p>
-              Network based intrusion detection systems are best suited to
+            <p>Network based intrusion detection systems are best suited to
               detect and prevent bandwidth-based denial of service attacks.
               This type of attack manipulates network traffic in such a way
               that network based IDS can easily detect it.
@@ -4894,33 +4797,9 @@ description: some description
         <td class="glsKeyword"><div>Instant Messaging</div></td>
         <td class="glsDefinition">
           <div>
-            <p>
-              Instant Messaging is a Windows chat utility. Its design
-              features include real-time communication, transfer of text and
-              files, free availability for use.
-            </p>
-
-            <p>
-              Instant Messaging does not provide privacy. Many Instant
-              Messaging clients communicate in clear text or use an easily
-              broken basic encryption scheme to protect integrity rather
-              than confidentiality. Because of this, a sniffing attack is
-              most likely to succeed against communications between Instant
-              Messaging clients. When you employ an Instant Messaging
-              system, you should assume all of your communications are being
-              intercepted and never discuss confidential, personal, or
-              sensitive issues.
-            </p>
-
-            <p>
-              Another vulnerability of Instant Message clients is
-              downloading malicious code. Many Instant Message clients do
-              not have adequate safeguards against downloading files of
-              unknown origin from other chat partners. File transfers of any
-              type open up the possibilities of being infected with a virus,
-              downloading a Trojan horse or logic bomb, or installing remote
-              control hacker tools onto your system.
-            </p>
+            <p>Instant Messaging is a Windows chat utility. Its design features include real-time communication, transfer of text and files, free availability for use.</p>
+            <p>Instant Messaging does not provide privacy. Many Instant Messaging clients communicate in clear text or use an easily broken basic encryption scheme to protect integrity rather than confidentiality. Because of this, a sniffing attack is most likely to succeed against communications between Instant Messaging clients. When you employ an Instant Messaging system, you should assume all of your communications are being intercepted and never discuss confidential, personal, or sensitive issues.</p>
+            <p>Another vulnerability of Instant Message clients is downloading malicious code. Many Instant Message clients do not have adequate safeguards against downloading files of unknown origin from other chat partners. File transfers of any type open up the possibilities of being infected with a virus, downloading a Trojan horse or logic bomb, or installing remote control hacker tools onto your system.</p>
           </div>
         </td>
       </tr>
@@ -4988,15 +4867,7 @@ description: some description
         </td>
         <td class="glsDefinition">
           <div>
-            <p>
-              The<i class="fs-italicize"> </i> International Information
-              Systems Security Certification Consortium (ISC<sup>2</sup>)<i
-                class="fs-italicize"
-              >
-              </i
-              >is an internationally-used standard for educating and
-              certifying information security professionals.
-            </p>
+            <p>The<i> International Information Systems Security Certification Consortium (ISC<sup>2</sup>)</i>is an internationally-used standard for educating and certifying information security professionals. </p>
           </div>
         </td>
       </tr>
@@ -5110,7 +4981,6 @@ description: some description
               means to communicate for any LAN or Internet based system
               using TCP/IP.
             </p>
-
             <p>
               IPSec is the most widely deployed VPN technology used for
               network to network VPN links. IPSec can be used to connect two
@@ -5224,7 +5094,7 @@ description: some description
         <td class="glsDefinition">
           <div>
             <p>
-              <i class="fs-italicize">Java</i> was developed and released by
+              <i>Java</i> was developed and released by
               Sun Microsystems as part of Sun's HotJava Web browser in 1995.
               It is a relatively new high-level programming language that
               can both compile and interpret information. It
@@ -5232,7 +5102,7 @@ description: some description
               develop applications that can stand alone. Java is type-safe,
               supports only single inheritance, and includes supports for
               concurrency. Java runs in self-contained platforms called
-              <i class="fs-italicize">sandboxes</i>. All activity in a
+              <i>sandboxes</i>. All activity in a
               sandbox is checked against the following mechanisms:
             </p>
             <ul>
@@ -5414,8 +5284,8 @@ description: some description
               of 1/16 of a key used only once.
             </p>
             <p>
-              <b class="fw-bold">Note:</b>
-              <i class="fs-italicize">Kerckhoff's principle</i> states that
+              <b>Note:</b>
+              <i >Kerckhoff's principle</i> states that
               the strength of a cryptosystem should not be in the secrecy of
               the algorithm, but in the secrecy of the key.
             </p>
@@ -5580,13 +5450,7 @@ description: some description
         <td class="glsDefinition">
           <div>
             <p>L2F is a VPN protocol which offers no data encryption.</p>
-
-            <p>
-              L2F was combined with PPTP, creating L2TP. Support for IPSec
-              was added, and the result is a very versatile, nearly
-              universally interoperable VPN protocol that provides solid
-              authentication and reliable data encryption.
-            </p>
+            <p>L2F was combined with PPTP, creating L2TP. Support for IPSec was added, and the result is a very versatile, nearly universally interoperable VPN protocol that provides solid authentication and reliable data encryption. </p>
           </div>
         </td>
       </tr>
@@ -5786,7 +5650,6 @@ description: some description
               resources and people. Sensitivity labels define how much
               security should be used to protect and manage resources.
             </p>
-
             <p>
               Within any classification level of a MAC environment, data can
               be compartmentalized and thus require the additional access
@@ -6344,12 +6207,7 @@ description: some description
         <td class="glsKeyword"><div>need to know</div></td>
         <td class="glsDefinition">
           <div>
-            <p>
-              Need to know is a security principle used in mandatory access
-              control environments to provide access control to segmented
-              resources within a specific security domain.
-            </p>
-
+            <p>Need to know is a security principle used in mandatory access control environments to provide access control to segmented resources within a specific security domain.</p>
             <p>
               Need to know is required to access compartmentalized
               resources. Within any classification level of a MAC
@@ -6438,7 +6296,6 @@ description: some description
               communication, thus they cannot repute that they originated a
               message.
             </p>
-
             <p>
               Both symmetric and asymmetric algorithms provide for
               non-repudiation.
@@ -6683,7 +6540,6 @@ description: some description
                 anomalies.
               </li>
             </ul>
-
             <p>&nbsp;</p>
           </div>
         </td>
@@ -7340,7 +7196,6 @@ description: some description
               Privacy is the protection of confidentiality of personal
               information.
             </p>
-
             <p>
               There is no provision made for privacy on secured business
               computers. The acceptable use policy clearly indicates that
@@ -7950,7 +7805,6 @@ description: some description
               Certificates are not revoked due to normal expiration (because
               expired certificates are no longer valid).
             </p>
-
             <p>
               A Certificate Revocation List (CRL) identifies certificates
               that have been revoked due to fraud or theft or another manner
@@ -8086,7 +7940,6 @@ description: some description
               authentication. The use of RSA provides a reliable and secure
               means for protecting login credentials and session keys.
             </p>
-
             <p>
               SSH uses RSA public key cryptography for both connection and
               authentication. Secure Multi-Purpose Internet Mail Extensions
@@ -8237,11 +8090,7 @@ description: some description
         <td class="glsDefinition">
           <div>
             <p></p>
-            <p>
-              A save point is when the user commits a save to the current
-              changes in a data set.
-            </p>
-            &nbsp;
+            <p>A save point is when the user commits a save to the current changes in a data set.</p>&nbsp;
           </div>
         </td>
       </tr>
@@ -8408,7 +8257,6 @@ description: some description
               traffic. SHTTP is an alternative to SSL for Web traffic, but
               it does not employ SSL.
             </p>
-
             <p>
               SHTTP should not be confused with HTTPS (Hypertext Transfer
               Protocol over Secure Socket Layer), which uses a URL of
@@ -8428,7 +8276,6 @@ description: some description
               primarily to protect e-mail and the file attachments on e-mail
               messages.
             </p>
-
             <p>
               Secure Multi-Purpose Internet Mail Extensions (S/MIME) uses
               RSA (not IDEA) encryption. Based on RFC 1521, S/MIME employs
@@ -8523,7 +8370,6 @@ description: some description
               template. The list of vulnerabilities found in a system is the
               result of a penetration test.
             </p>
-
             <p>
               The most secure baseline to start from is always no access to
               everyone. From this locked-down state, access can be granted
@@ -8555,7 +8401,6 @@ description: some description
               about how to impose security in an environment when a specific
               procedure does not exist.
             </p>
-
             <p>
               Guidelines are the most flexible element of the formalized
               security policy documentation infrastructure. Guidelines are
@@ -9273,11 +9118,7 @@ description: some description
               that it is impossible to back-track the message to its
               original source.
             </p>
-
-            <p>
-              Other examples of spoofing attacks are Smurf, Fraggle and Land
-              attacks.
-            </p>
+            <p>Other examples of spoofing attacks are Smurf, Fraggle and Land attacks.</p>
           </div>
         </td>
       </tr>
@@ -9492,27 +9333,9 @@ description: some description
         <td class="glsKeyword"><div>switch</div></td>
         <td class="glsDefinition">
           <div>
-            <p>
-              Switches can also be called multi-port bridges. Switches are
-              used to connect networks or segments using the same protocol
-              and networking technology (i.e. Ethernet). Switches can
-              operate at layer 2 or 3 (Data Link Network) of the OSI model.
-            </p>
-
-            <p>
-              Use a switch to create virtual LANs (VLANs). The various ports
-              on a switch can be assigned to a specific VLAN to create
-              logically distinct networks on the same physical network
-              topology.
-            </p>
-
-            <p>
-              Switches block broadcasts. Thus, they do not allow broadcast
-              to be transmitted from one segment to another. Switches
-              prevent sniffers from accessing all traffic on the network,
-              they improve throughput between a server and any one client,
-              and they can be used to create virtual networks.
-            </p>
+            <p> Switches can also be called multi-port bridges. Switches are used to connect networks or segments using the same protocol and networking technology (i.e. Ethernet). Switches can operate at layer 2 or 3 (Data Link Network) of the OSI model.</p>
+            <p>Use a switch to create virtual LANs (VLANs). The various ports on a switch can be assigned to a specific VLAN to create logically distinct networks on the same physical network topology.</p>
+            <p>Switches block broadcasts. Thus, they do not allow broadcast to be transmitted from one segment to another. Switches prevent sniffers from accessing all traffic on the network, they improve throughput between a server and any one client, and they can be used to create virtual networks.</p>
           </div>
         </td>
       </tr>
@@ -9520,13 +9343,7 @@ description: some description
         <td class="glsKeyword"><div>symmetric algorithms</div></td>
         <td class="glsDefinition">
           <div>
-            <p>
-              Symmetric algorithms are used to encrypt bulk data for
-              communications exchange. Asymmetric algorithms provide a means
-              to exchange small amounts of data securely over a public
-              network. Both symmetric and asymmetric algorithms provide for
-              non-repudiation.
-            </p>
+            <p>Symmetric algorithms are used to encrypt bulk data for communications exchange. Asymmetric algorithms provide a means to exchange small amounts of data securely over a public network. Both symmetric and asymmetric algorithms provide for non-repudiation.</p>
           </div>
         </td>
       </tr>
@@ -9534,22 +9351,8 @@ description: some description
         <td class="glsKeyword"><div>SYN flood</div></td>
         <td class="glsDefinition">
           <div>
-            <p>
-              A SYN attack or SYN flood exploits or attacks the ACK packet
-              of the TCP three-way handshake. An SYN attack or SYN flood
-              must send the initial SYN packet, with no malicious content
-              other than the possibility of spoofing the source address to
-              hide the attacker's identity or location. The SYN/ACK packet
-              is returned by the server, thus the attacker cannot modify or
-              alter this element of the handshake. By not sending the final
-              ACK packet, the server holds open an incomplete session, thus
-              consuming system resources.
-            </p>
-            <p>
-              If the attacker can cause the server to open numerous sessions
-              in this manner, all system resources will be consumed and no
-              legitimate connections will be established.
-            </p>
+            <p>A SYN attack or SYN flood exploits or attacks the ACK packet of the TCP three-way handshake. An SYN attack or SYN flood must send the initial SYN packet, with no malicious content other than the possibility of spoofing the source address to hide the attacker's identity or location. The SYN/ACK packet is returned by the server, thus the attacker cannot modify or alter this element of the handshake. By not sending the final ACK packet, the server holds open an incomplete session, thus consuming system resources.</p>
+            <p>If the attacker can cause the server to open numerous sessions in this manner, all system resources will be consumed and no legitimate connections will be established.</p>
           </div>
         </td>
       </tr>
@@ -10185,14 +9988,12 @@ description: some description
               establishes a secured communications tunnel through an
               insecure network connecting two systems.
             </p>
-
             <p>
               Tunnels provide secure communications, they usually provide
               less than optimal throughput due to the additional overhead of
               encryption and maintaining the communications link. Tunnels
               are not directly associated with password theft or protection.
             </p>
-
             <p>L2TP, PPTP, and IPSec are all VPN tunnel protocols.</p>
           </div>
         </td>
@@ -10222,7 +10023,6 @@ description: some description
               two of the same type of factors it is not a true two-factor
               authentication method.
             </p>
-
             <p>
               The three common authentication factor types are Something You
               Know (such as a password), Something You Have (such as a smart
@@ -10453,7 +10253,6 @@ description: some description
               logically distinct networks on the same physical network
               topology.
             </p>
-
             <p>
               VLANs reduce the likelihood of traffic interception because
               the switch creating the VLANs transmits traffic only over the
@@ -10464,7 +10263,6 @@ description: some description
               the connection of geographically separate systems into the
               same network. VLANs usually reduce collisions.
             </p>
-
             <p>
               Routers, gateways, and hubs do not support the creation of
               VLANs.
@@ -10989,7 +10787,6 @@ description: some description
               client can only communicate with a hub or router if they have
               an active network cable connected to them.
             </p>
-
             <p>
               On a wireless network that is employing WEP (Wired Equivalent
               Privacy), only users with the correct WEP key are allowed to
@@ -10998,7 +10795,6 @@ description: some description
               unauthorized users by employing a wireless session key for
               access.
             </p>
-
             <p>WEP has the following weaknesses:</p>
             <ul>
               <li>
@@ -11106,7 +10902,6 @@ description: some description
               authentication for wireless networking environments. WTLS is a
               sub-set or component of WAP (Wireless Application Protocol).
             </p>
-
             <p>
               WTLS does not provide for availability. Wireless networks are
               subject to types of interference that can impede or disable
